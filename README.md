@@ -3,6 +3,7 @@ A Space Shooter game in C++ using SFML graphics and OOP concepts
 
 
 EXAMPLE
+
 ![image](https://github.com/hashirkhan21/spaceshooter/assets/94777942/56963009-bc94-49b0-ac4a-de5acb9666ef)
 
 
